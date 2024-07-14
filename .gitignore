@@ -1,0 +1,11 @@
+# Ignore venv directory
+venv/
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore .pyc files
+*.pyc
